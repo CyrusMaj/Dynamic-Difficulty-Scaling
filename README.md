@@ -1,0 +1,2 @@
+# Dynamic-Difficulty-Scaling
+A simple Unity game project exploring AI and dynamic difficulty scaling. It is a very simple FPS game where enemies spawn from spawn points, and utilize a navmesh to navigate the play area. The enemies aree programmed to locate the player, but keep a diistance and open fire. The difficulty of the game fluctuates based on the player's performance, based on how much damage is dealt to enemies vs. received. As the difficulty increases, enemies spawn more quickly and move more quickly, and vice-versa.
